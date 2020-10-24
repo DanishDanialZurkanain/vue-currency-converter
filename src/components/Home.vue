@@ -64,6 +64,9 @@
           <b-button @click="calculateRates" variant="outline-primary" block
             >Calculate</b-button
           >
+          <div class="mt-3">
+            <small class="text-muted"> Powered by Exchange Rates API </small>
+          </div>
         </b-card>
       </div>
     </div>
