@@ -2,6 +2,8 @@
 
 Using Vue with Axios and [Exchange Rates API](https://exchangeratesapi.io/)
 
+![Images](src/assets/preview.png?raw=true "Preview")
+
 ## Project setup
 ```
 npm install
