@@ -1,5 +1,7 @@
 # vue-currency-converter
 
+Using Vue with Axios and [Exchange Rates API](https://exchangeratesapi.io/)
+
 ## Project setup
 ```
 npm install
